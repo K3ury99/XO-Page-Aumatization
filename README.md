@@ -54,3 +54,6 @@ Before running this project, make sure you have the following components install
 - **Selenium WebDriver**
 - **Microsoft Edge WebDriver**
 - Required libraries (install them with `pip install selenium pytest`).
+
+## 📔 License
+This project is licensed under the MIT License. See the LICENSE file for details.
