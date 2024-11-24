@@ -15,7 +15,7 @@ use this small code to run the program from the CMD
 </div>
 
 > [!TIP]
-This is the personal page I used to automate this project
+This is the page I used in this automation project, I also uploaded the folder in this repository and it's hosted on Netlify.
 ```text
    https://bondelic.netlify.app/
    ```
