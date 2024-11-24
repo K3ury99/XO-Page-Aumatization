@@ -1,6 +1,6 @@
 # 🚀 XO-Page-Automation
 > [!IMPORTANT]
-The automated project is called "Tarea_4.py.". Use this small code to run the program from the CMD
+The automated project is called "Tarea_4.py". Use this small code to run the program from the CMD
 ```text
    pytest Tarea_4.py --html=report.html
    ```
