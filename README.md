@@ -50,7 +50,7 @@ Copiar código
 
 # 📋 **Prerequisites**
 Before running this project, make sure you have the following components installed:
-- **Python 3.x**
+- **Python 3.0**
 - **Selenium WebDriver**
 - **Microsoft Edge WebDriver**
 - Required libraries (install them with `pip install selenium pytest`).
