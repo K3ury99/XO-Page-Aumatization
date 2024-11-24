@@ -48,6 +48,17 @@ Copiar código
  ┣ 📄 README.md        (This file)  
  ┗ 📄 requirements.txt (Project dependencies)  
 
+## 🐱‍👤 Contributing
+1. **Fork the repo**
+- **Create a new branch**
+   ```bash
+   git checkout -b feature-branch
+- **Commit changes**
+   ```bash
+  git commit -am 'Add new feature'
+2. **Push to the branch (git push origin feature-branch)**
+3. **Create a new Pull Request**
+
 # 📋 **Prerequisites**
 Before running this project, make sure you have the following components installed:
 - **Python 3.0**
