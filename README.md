@@ -20,6 +20,9 @@ This is the page I used in this automation project, I also uploaded the folder i
    https://bondelic.netlify.app/
    ```
 
+## ✨ Visit Page
+- https://bondelic.netlify.app
+
 # 👾 Explanatory Video of the Proyect
    - https://www.youtube.com/watch?v=B2mvXNtj8RE
 
